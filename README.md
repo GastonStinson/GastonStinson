@@ -24,6 +24,6 @@ Que Tecnologias uso?
 - Sequelize
 - GIT
 
-PONGAMONOS EN CONTACTO! 
-https://www.linkedin.com/in/gastonstinson/
-gastonstinson00@gmail.com
+PONGAMONOS EN CONTACTO! 😊
+- https://www.linkedin.com/in/gastonstinson/
+- gastonstinson00@gmail.com
