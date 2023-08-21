@@ -3,7 +3,7 @@
 
 - Im working on a SPA for a politician [Mauricio Dova](www.mauriciodova.com.ar)
 
-- 🌱 I’m currently learning **Machine Learning !!**
+- 🌱 I’m currently improving my skills on **Machine Learning and AI**
 
 - 💬 Ask me about **React, Javascript, Express, Node**
 
