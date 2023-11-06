@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaston Stinson</h1>
 <h3 align="center">Full Stack Developer, located in the province of Mendoza, Argentina.</h3>
 
-- 🌱 I’m currently improving my skills on **Machine Learning and AI**
+- 🌱 I’m currently improving my skills on **CyberSecurity**
 
 - 💬 Ask me about **React, Javascript, Express, Node**
 
